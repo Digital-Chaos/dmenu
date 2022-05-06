@@ -12,7 +12,7 @@ X11LIB = /usr/local/lib
 #XINERAMALIBS  = -lXinerama
 #XINERAMAFLAGS = -DXINERAMA
 
-x# freetype
+# freetype
 FREETYPELIBS = -lfontconfig -lXft
 #FREETYPEINC = /usr/include/freetype2
 # OpenBSD (uncomment)
